@@ -1,1 +1,1 @@
-# techblog-html-css
+# responsive-blog-html-css
