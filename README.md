@@ -13,5 +13,5 @@ This project is an example of how HTML and CSS can be used to create responsive 
 ## How to see the project:
 
 1. Downaload this repository or clone it in your machine.
-2. Open the <strong>blog.html</strong> file with the browser of your choice.
+2. Open the `blog.html` file with the browser of your choice.
 
